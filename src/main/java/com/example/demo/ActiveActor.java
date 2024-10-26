@@ -24,5 +24,4 @@ public abstract class ActiveActor extends ImageView {
 	protected void moveVertically(double verticalMove) {
 		this.setTranslateY(getTranslateY() + verticalMove);
 	}
-	//test
 }
